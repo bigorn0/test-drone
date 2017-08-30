@@ -1,3 +1,6 @@
+workspace:
+  base: /go
+  path: src/github.com/bigorn0/test-drone
 pipeline:
   build:
     image: golang
